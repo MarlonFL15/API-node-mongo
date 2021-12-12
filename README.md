@@ -19,8 +19,8 @@ Clone o projeto, entre no diretório e baixe todas as bibliotecas necessárias:
     $ npm install
     
     
-Após, isso baixa rodar o arquivo `index.js` e acessar o [localhost](http://localhost/) na porta 3000:
+Após, isso basta rodar o arquivo `index.js` na pasta `src`e acessar o [localhost](http://localhost/) na porta 3000:
 
 
-    $ node app.js
+    $ node src/index.js
 
